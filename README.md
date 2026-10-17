@@ -15,3 +15,7 @@ Install selenium with `pip install selenium`, start AttendX on localhost:3000, t
     python attendance_test.py
 
 Each script prints PASS or FAIL.
+
+## Team
+
+Pull before you start working and push when you are done.
